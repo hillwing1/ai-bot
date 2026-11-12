@@ -70,4 +70,4 @@ async def on_message(message: discord.Message):
 
 # 啟動防休眠網頁與機器人（請把雙引號內的文字換成你新 Bot 的 Token）
 keep_alive()
-bot.run("MTU2NzE2NjMwODMxMzg1ODIyNw.G2eXRe.irHvJwR_fyQgKq8LGDVllug6pKTe-wsYKnKylU")
+bot.run("MTU3MDQ0MzM3OTk3MDQxMjY4NQ.Gexdrq.KIgbS72nxHmcoYA2WtHZJohAPbXGaWfmIjmovk")
