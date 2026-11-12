@@ -20,7 +20,7 @@ def keep_alive():
     t.start()
 
 # 2. 初始化 Gemini AI（請把雙引號內的文字換成你的 AIza 開頭金鑰）
-ai_client = genai.Client(api_key="AIzaSy你剛剛複製的金鑰")
+ai_client = genai.Client(api_key="AQ.Ab8RN6Kkf4dYshSwNnW4d4DmeSC6xtFQLafqXwtUcueV6pAJHw")
 
 # 3. 設定 Discord Bot 權限
 intents = discord.Intents.default()
@@ -70,4 +70,4 @@ async def on_message(message: discord.Message):
 
 # 啟動防休眠網頁與機器人（請把雙引號內的文字換成你新 Bot 的 Token）
 keep_alive()
-bot.run("AQ.Ab8RN6Kkf4dYshSwNnW4d4DmeSC6xtFQLafqXwtUcueV6pAJHw")
+bot.run("MTU2NzE2NjMwODMxMzg1ODIyNw.G2eXRe.irHvJwR_fyQgKq8LGDVllug6pKTe-wsYKnKylU")
